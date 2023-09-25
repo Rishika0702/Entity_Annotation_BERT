@@ -1,6 +1,6 @@
 # Entity_Annotation_BERT
 
-### Entity Annotations Recognition for Dataset
+## Entity Annotations Recognition for Dataset
 "O" indicates no specific entity.
 "B-PER/I-PER" denotes the Beginning/Inside of a person entity.
 "B-ORG/I-ORG" marks the Beginning/Inside of an organization entity.
